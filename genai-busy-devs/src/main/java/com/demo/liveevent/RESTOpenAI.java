@@ -1,4 +1,4 @@
-package com.demo.busy;
+package com.demo.liveevent;
 
 import java.io.IOException;
 import java.net.URI;

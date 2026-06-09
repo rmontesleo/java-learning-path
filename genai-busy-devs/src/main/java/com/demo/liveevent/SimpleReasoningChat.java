@@ -1,4 +1,4 @@
-package com.demo.busy;
+package com.demo.liveevent;
 
 import java.time.Duration;
 import java.util.ArrayList;

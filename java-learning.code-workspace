@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "genai-busy-devs"
+		},
+		{
+			"path": "openai-java"
 		}
 	],
 	"settings": {
