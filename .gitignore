@@ -1,0 +1,14 @@
+
+.vscode
+**/.vscode
+
+
+# Target for maven project
+target/
+**/target
+
+
+# Environment files
+.env
+**/.env
+
